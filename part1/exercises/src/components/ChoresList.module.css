@@ -1,8 +1,9 @@
 .choresText {
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    color:aquamarine;
-   font-size: 1.3vw;
+   font-size: 2.3vw;
    font-style: italic;
+   text-align: left;
    
    
 }
@@ -10,4 +11,5 @@
 .choresHeading {
    color: seagreen;
    text-decoration: underline;
+   text-align: left;
 }
