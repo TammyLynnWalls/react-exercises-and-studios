@@ -1,0 +1,32 @@
+{
+    "Projects" : [{
+        "canvas": "glitter",
+        "designer": "Pip and Roo",
+        "photoUrl": "https://paperglitterglue.com/wp-content/uploads/Barn-shaped-front-gable-Christmas-house-front-view.jpg",
+        "alt": "Stitched fox with fluffy tail"
+
+    }, {
+        "canvas": "house",
+        "designer": "Pip and Roo",
+        "photoUrl": "https://paperglitterglue.com/wp-content/uploads/German-Half-Timbered-Christmas-Paper-House-pink-box.jpg",
+        "alt": " https://paperglitterglue.com/wp-content/uploads/German-Half-Timbered-Christmas-Paper-House-pink-box.jpg"
+
+    }, {
+        "canvas": "mica",
+        "designer": "Pip and Roo",
+        "photoUrl": "https://paperglitterglue.com/wp-content/uploads/Angled-left-front-view.jpg",
+        "alt": "https://paperglitterglue.com/wp-content/uploads/Angled-left-front-view.jpg"
+
+    }, {
+        "canvas": "dwelling",
+        "designer": "Pip and Roo",
+        "photoUrl": "https://paperglitterglue.com/wp-content/uploads/Easy-Paper-Houses-with-windows-and-chimney.jpg",
+        "alt": "https://paperglitterglue.com/wp-content/uploads/Easy-Paper-Houses-with-windows-and-chimney.jpg"
+
+    },{
+        "canvas": "cardstock",
+        "designer": "Pip and Roo",
+        "photoUrl": "https://paperglitterglue.com/wp-content/uploads/IMG_2629.jpg",
+        "alt": "Stitched fox with fluffy tail"
+    }]
+}
